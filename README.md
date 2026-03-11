@@ -40,3 +40,4 @@ To update data, replace `public/banknifty-data.csv` with new CSV in format:
 time,open,high,low,close
 2022-11-01T09:15:00+05:30,41485.85,41548.55,41393.55,41478.35
 ```
+# BankNifty FVG Charts
